@@ -1,18 +1,20 @@
 using UnityEngine;
 
-public class ClockHand : MonoBehaviour
+public class Changer : MonoBehaviour
 {
-    public float Hspeed;
+    public SpriteRenderer changerRenderer;
+    public Sprite changedSprite;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
+        changerRenderer.sprite = changedSprite;
     }
 
     // Update is called once per frame
     void Update()
     {
-        transform.eulerAngles += transform.forward * Hspeed * Time.deltaTime;
+
     }
 }
