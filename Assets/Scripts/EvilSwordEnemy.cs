@@ -8,14 +8,15 @@ using UnityEngine.UI;
 public class EvilSwordEnemy : MonoBehaviour
 {
   
-    public float maxHealth;
+    public float Health;
     public GameObject sword;
-
+ 
+    public Button button;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+     
     }
 
     // Update is called once per frame
@@ -24,12 +25,14 @@ public class EvilSwordEnemy : MonoBehaviour
        bool leftMouseWasPressed = Mouse.current.leftButton.wasPressedThisFrame;
         if (leftMouseWasPressed)
         {
-            maxHealth -= 1f;  
-            //button.GetComponent<TextMeshPro>().text = maxHealth.ToString();
+            Health -= 1f;
+            
         }
-        if(maxHealth < 0f)
+        if(Health < 0f)
         {
             Destroy(sword);
         }
+
+        button.GetComponentInChildren<TextMeshProUGUI>().text = Health.ToString();
     }
 }
