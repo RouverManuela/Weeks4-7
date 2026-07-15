@@ -4,15 +4,18 @@ public class CreatureMovementScript : MonoBehaviour
 {
     public float speed;
 
-    public float leftEdge = -8f;
-    public float rightEdge = 8f;
+    public float leftEdge;
+    public float rightEdge;
 
     private float moveDirection = 1f;
+
+    private float lifespan = 8f;
+    private float lifeTimer;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-      
+        lifeTimer = lifespan;
     }
 
     // Update is called once per frame
@@ -33,7 +36,7 @@ public class CreatureMovementScript : MonoBehaviour
         }
     }
 
-    public void SetSpeed(float newSpeed)
+    public void ChangeSpeed(float newSpeed)
     {
         speed = newSpeed;
     }
