@@ -9,13 +9,17 @@ public class CreatureMovementScript : MonoBehaviour
 
     private float moveDirection = 1f;
 
-    private float lifespan = 8f;
-    private float lifeTimer;
+    private float lifespan = 0f;
+    private float lifeDuration = 10f;
+
+    public GameObject creature;
+
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        lifeTimer = lifespan;
+        
     }
 
     // Update is called once per frame
@@ -34,6 +38,14 @@ public class CreatureMovementScript : MonoBehaviour
         {
             moveDirection = 1f;
         }
+
+        lifespan += 1f * Time.deltaTime;
+
+        if(lifespan > lifeDuration)
+        {
+            Destroy(creature);
+        }
+
     }
 
     public void ChangeSpeed(float newSpeed)
