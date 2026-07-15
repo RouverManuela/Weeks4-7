@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 8548ca5c08d7c9c4f8221cd57e9fae33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8018994692472929492
+    second: sway_0
+  - first:
+      213: 3889232763365836450
+    second: sway_1
+  - first:
+      213: 2796915329887431359
+    second: sway_2
+  - first:
+      213: 6815858036213098575
+    second: sway_3
+  - first:
+      213: 5300537526005780603
+    second: sway_4
+  - first:
+      213: -157984263602433788
+    second: sway_5
+  - first:
+      213: -1521919746559954859
+    second: sway_6
+  - first:
+      213: 6492192527226504131
+    second: sway_7
+  - first:
+      213: -5994127407850732260
+    second: sway_8
+  - first:
+      213: -5956726285834808098
+    second: sway_9
+  - first:
+      213: 1992605995447177674
+    second: sway_10
+  - first:
+      213: -4762521889555970644
+    second: sway_11
+  - first:
+      213: 6030739930971804047
+    second: sway_12
+  - first:
+      213: 3219749424023068601
+    second: sway_13
+  - first:
+      213: 151131655305469233
+    second: sway_14
+  - first:
+      213: -4753366549244364014
+    second: sway_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sway_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 75
+        width: 138
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc7794bf21394f60800000000000000
+      internalID: 8018994692472929492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sway_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 75
+        width: 138
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a64b3d979459f530800000000000000
+      internalID: 3889232763365836450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sway_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 75
+        width: 138
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbae8c08ca3a0d620800000000000000
+      internalID: 2796915329887431359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sway_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 75
+        width: 138
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4829ff95cac69e50800000000000000
+      internalID: 6815858036213098575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sway_4
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 75
+        width: 138
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70d334ebca4f8940800000000000000
+      internalID: 5300537526005780603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sway_5
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 75
+        width: 138
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40110e7362abecdf0800000000000000
+      internalID: -157984263602433788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sway_6
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 75
+        width: 138
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55034a1dd0e01eae0800000000000000
+      internalID: -1521919746559954859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sway_7
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 75
+        width: 138
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c308c6d4b6e81a50800000000000000
+      internalID: 6492192527226504131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sway_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35
+        width: 114
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15cf9c71e490dca0800000000000000
+      internalID: -5994127407850732260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sway_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 39
+        width: 114
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4959cc005755da0800000000000000
+      internalID: -5956726285834808098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sway_10
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 39
+        width: 114
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac151f7789827ab10800000000000000
+      internalID: 1992605995447177674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sway_11
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 39
+        width: 114
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca58ef9039f18edb0800000000000000
+      internalID: -4762521889555970644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sway_12
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 35
+        width: 114
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f819656d30e71b350800000000000000
+      internalID: 6030739930971804047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sway_13
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 31
+        width: 114
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfd9acca09deac20800000000000000
+      internalID: 3219749424023068601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sway_14
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 31
+        width: 114
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d9cc4907de81200800000000000000
+      internalID: 151131655305469233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sway_15
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 31
+        width: 114
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bb011de46a80eb0800000000000000
+      internalID: -4753366549244364014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sway_0: 8018994692472929492
+      sway_1: 3889232763365836450
+      sway_10: 1992605995447177674
+      sway_11: -4762521889555970644
+      sway_12: 6030739930971804047
+      sway_13: 3219749424023068601
+      sway_14: 151131655305469233
+      sway_15: -4753366549244364014
+      sway_2: 2796915329887431359
+      sway_3: 6815858036213098575
+      sway_4: 5300537526005780603
+      sway_5: -157984263602433788
+      sway_6: -1521919746559954859
+      sway_7: 6492192527226504131
+      sway_8: -5994127407850732260
+      sway_9: -5956726285834808098
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

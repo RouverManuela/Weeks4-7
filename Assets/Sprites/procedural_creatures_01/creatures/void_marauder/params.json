@@ -1,0 +1,74 @@
+{
+  "id": "naa9-ffkj",
+  "name": "void-marauder",
+  "seed": "gzc8e1bw",
+  "size": 32,
+  "caIterations": 7,
+  "caBirth": 5,
+  "caSurvival": 2,
+  "caErosion": 1,
+  "caGrowth": 0.31863212506251176,
+  "complexity": 0.450803723168878,
+  "aggression": 0.10790502818952961,
+  "density": 0.42701075967390806,
+  "aspect": 0.8639095420887961,
+  "colorVariance": 0.5,
+  "limbLength": 0.4288710695866749,
+  "limbThickness": 0.5534927494794808,
+  "mutation": 0,
+  "symmetry": "horizontal",
+  "palette": "procedural",
+  "frameCount": 8,
+  "animSpeed": 125,
+  "canvasSize": 48,
+  "eyesEnabled": true,
+  "eyeCount": 1,
+  "eyeShape": "dot",
+  "eyeColorIndex": 1,
+  "eyeVerticalPos": 0.27,
+  "eyeSpread": 0.22,
+  "fragmentation": 0.36791439606469684,
+  "outlineColor": [
+    0,
+    0,
+    0,
+    255
+  ],
+  "outlineEnabled": true,
+  "outlineThickness": 1,
+  "eyeSize": 1,
+  "idleAnim": "wiggle",
+  "celebrateAnim": "shake",
+  "customPalette": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      64,
+      64,
+      64,
+      255
+    ],
+    [
+      128,
+      128,
+      128,
+      255
+    ],
+    [
+      192,
+      192,
+      192,
+      255
+    ],
+    [
+      224,
+      224,
+      224,
+      255
+    ]
+  ]
+}

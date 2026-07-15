@@ -1,0 +1,74 @@
+{
+  "id": "7rcf-k4jp",
+  "name": "ominous-daemon",
+  "seed": "h2t6nvnj",
+  "size": 32,
+  "caIterations": 8,
+  "caBirth": 4,
+  "caSurvival": 5,
+  "caErosion": 0,
+  "caGrowth": 0,
+  "complexity": 0.6400864443067515,
+  "aggression": 0.5280890034856546,
+  "density": 0.7753716091288947,
+  "aspect": 0.7966588025830599,
+  "colorVariance": 0.5,
+  "limbLength": 0.621260921952615,
+  "limbThickness": 0.6445835403383993,
+  "mutation": 0,
+  "symmetry": "horizontal",
+  "palette": "procedural",
+  "frameCount": 8,
+  "animSpeed": 125,
+  "canvasSize": 48,
+  "eyesEnabled": true,
+  "eyeCount": 1,
+  "eyeShape": "dot",
+  "eyeColorIndex": 1,
+  "eyeVerticalPos": 0.32,
+  "eyeSpread": 0.17,
+  "fragmentation": 0,
+  "outlineColor": [
+    0,
+    0,
+    0,
+    255
+  ],
+  "outlineEnabled": true,
+  "outlineThickness": 1,
+  "eyeSize": 1,
+  "idleAnim": "bob",
+  "celebrateAnim": "shake",
+  "customPalette": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      64,
+      64,
+      64,
+      255
+    ],
+    [
+      128,
+      128,
+      128,
+      255
+    ],
+    [
+      192,
+      192,
+      192,
+      255
+    ],
+    [
+      224,
+      224,
+      224,
+      255
+    ]
+  ]
+}

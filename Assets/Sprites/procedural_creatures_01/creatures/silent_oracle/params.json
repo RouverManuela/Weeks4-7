@@ -1,0 +1,74 @@
+{
+  "id": "azj3-dzbj",
+  "name": "silent-oracle",
+  "seed": "vjfjskw0",
+  "size": 32,
+  "caIterations": 5,
+  "caBirth": 4,
+  "caSurvival": 5,
+  "caErosion": 0,
+  "caGrowth": 1,
+  "complexity": 0.7853166766379449,
+  "aggression": 0.770158650454071,
+  "density": 0.4189058198973413,
+  "aspect": 0.4468028686157516,
+  "colorVariance": 0.5,
+  "limbLength": 0.43021145074988354,
+  "limbThickness": 0.23064620304720151,
+  "mutation": 0,
+  "symmetry": "horizontal",
+  "palette": "procedural",
+  "frameCount": 8,
+  "animSpeed": 125,
+  "canvasSize": 48,
+  "eyesEnabled": true,
+  "eyeCount": 1,
+  "eyeShape": "dot",
+  "eyeColorIndex": 1,
+  "eyeVerticalPos": 0.1352902925376559,
+  "eyeSpread": 0.33113939502699014,
+  "fragmentation": 0,
+  "outlineColor": [
+    0,
+    0,
+    0,
+    255
+  ],
+  "outlineEnabled": true,
+  "outlineThickness": 1,
+  "eyeSize": 1,
+  "idleAnim": "bob",
+  "celebrateAnim": "jump",
+  "customPalette": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      64,
+      64,
+      64,
+      255
+    ],
+    [
+      128,
+      128,
+      128,
+      255
+    ],
+    [
+      192,
+      192,
+      192,
+      255
+    ],
+    [
+      224,
+      224,
+      224,
+      255
+    ]
+  ]
+}

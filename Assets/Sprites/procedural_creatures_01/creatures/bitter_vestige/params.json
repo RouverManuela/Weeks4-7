@@ -1,0 +1,74 @@
+{
+  "id": "rcqy-9bwf",
+  "name": "bitter-vestige",
+  "seed": "qr8pzawm",
+  "size": 32,
+  "caIterations": 6,
+  "caBirth": 5,
+  "caSurvival": 5,
+  "caErosion": 2,
+  "caGrowth": 0,
+  "complexity": 0.8862816381837895,
+  "aggression": 0.5663576574536926,
+  "density": 0.4389090064976609,
+  "aspect": 0.7231266472960898,
+  "colorVariance": 0.5,
+  "limbLength": 0.6925532345721865,
+  "limbThickness": 0.32038464444446146,
+  "mutation": 0,
+  "symmetry": "horizontal",
+  "palette": "procedural",
+  "frameCount": 8,
+  "animSpeed": 125,
+  "canvasSize": 48,
+  "eyesEnabled": true,
+  "eyeCount": 1,
+  "eyeShape": "dot",
+  "eyeColorIndex": 1,
+  "eyeVerticalPos": 0.2733952194403068,
+  "eyeSpread": 0.19,
+  "fragmentation": 0,
+  "outlineColor": [
+    0,
+    0,
+    0,
+    255
+  ],
+  "outlineEnabled": true,
+  "outlineThickness": 1,
+  "eyeSize": 1,
+  "idleAnim": "wiggle",
+  "celebrateAnim": "shake",
+  "customPalette": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      64,
+      64,
+      64,
+      255
+    ],
+    [
+      128,
+      128,
+      128,
+      255
+    ],
+    [
+      192,
+      192,
+      192,
+      255
+    ],
+    [
+      224,
+      224,
+      224,
+      255
+    ]
+  ]
+}

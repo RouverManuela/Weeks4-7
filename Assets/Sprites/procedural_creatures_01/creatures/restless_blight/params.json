@@ -1,0 +1,74 @@
+{
+  "id": "jk9w-8n9v",
+  "name": "restless-blight",
+  "seed": "1e6vnuw6",
+  "size": 32,
+  "caIterations": 7,
+  "caBirth": 4,
+  "caSurvival": 4,
+  "caErosion": 1,
+  "caGrowth": 0.54,
+  "complexity": 0.31515462481067147,
+  "aggression": 0.16271082884649307,
+  "density": 0.7768853986354508,
+  "aspect": 0.7191060885993872,
+  "colorVariance": 0.5,
+  "limbLength": 0.3177887598432462,
+  "limbThickness": 0.6200403914634165,
+  "mutation": 0,
+  "symmetry": "horizontal",
+  "palette": "custom",
+  "frameCount": 8,
+  "animSpeed": 125,
+  "canvasSize": 48,
+  "eyesEnabled": true,
+  "eyeCount": 1,
+  "eyeShape": "dot",
+  "eyeColorIndex": 1,
+  "eyeVerticalPos": 0.24,
+  "eyeSpread": 0.29,
+  "fragmentation": 0.1488622385261004,
+  "outlineColor": [
+    0,
+    0,
+    0,
+    255
+  ],
+  "outlineEnabled": true,
+  "outlineThickness": 1,
+  "eyeSize": 1,
+  "idleAnim": "bob",
+  "celebrateAnim": "shake",
+  "customPalette": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      6,
+      45,
+      16,
+      255
+    ],
+    [
+      16,
+      117,
+      42,
+      255
+    ],
+    [
+      55,
+      206,
+      94,
+      255
+    ],
+    [
+      228,
+      238,
+      234,
+      255
+    ]
+  ]
+}

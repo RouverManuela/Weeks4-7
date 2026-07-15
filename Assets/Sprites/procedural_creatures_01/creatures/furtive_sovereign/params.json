@@ -1,0 +1,74 @@
+{
+  "id": "gbeg-6w3y",
+  "name": "furtive-sovereign",
+  "seed": "6p5fdyrm",
+  "size": 32,
+  "caIterations": 4,
+  "caBirth": 8,
+  "caSurvival": 2,
+  "caErosion": 0,
+  "caGrowth": 0,
+  "complexity": 0.6126077266449238,
+  "aggression": 0.45870777131095053,
+  "density": 0.7720838879235435,
+  "aspect": 0.6945256149508138,
+  "colorVariance": 0.5,
+  "limbLength": 0.48537932535942613,
+  "limbThickness": 0.533359009184257,
+  "mutation": 0,
+  "symmetry": "horizontal",
+  "palette": "procedural",
+  "frameCount": 8,
+  "animSpeed": 125,
+  "canvasSize": 48,
+  "eyesEnabled": true,
+  "eyeCount": 1,
+  "eyeShape": "dot",
+  "eyeColorIndex": 1,
+  "eyeVerticalPos": 0.37,
+  "eyeSpread": 0.21,
+  "fragmentation": 0.4402078357669373,
+  "outlineColor": [
+    0,
+    0,
+    0,
+    255
+  ],
+  "outlineEnabled": true,
+  "outlineThickness": 1,
+  "eyeSize": 1,
+  "idleAnim": "bob",
+  "celebrateAnim": "bounce",
+  "customPalette": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      64,
+      64,
+      64,
+      255
+    ],
+    [
+      128,
+      128,
+      128,
+      255
+    ],
+    [
+      192,
+      192,
+      192,
+      255
+    ],
+    [
+      224,
+      224,
+      224,
+      255
+    ]
+  ]
+}

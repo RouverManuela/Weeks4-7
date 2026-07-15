@@ -1,0 +1,74 @@
+{
+  "id": "x8de-nfm5",
+  "name": "sovereign-crawler",
+  "seed": "okml39mn",
+  "size": 32,
+  "caIterations": 4,
+  "caBirth": 4,
+  "caSurvival": 4,
+  "caErosion": 0,
+  "caGrowth": 0.2535687201561305,
+  "complexity": 0.6268932561957209,
+  "aggression": 0.4132655434578918,
+  "density": 0.5896283224638523,
+  "aspect": 0.3414102414344804,
+  "colorVariance": 0.5,
+  "limbLength": 0.31446075485986835,
+  "limbThickness": 0.21513403348562332,
+  "mutation": 0,
+  "symmetry": "horizontal",
+  "palette": "procedural",
+  "frameCount": 8,
+  "animSpeed": 125,
+  "canvasSize": 48,
+  "eyesEnabled": true,
+  "eyeCount": 1,
+  "eyeShape": "dot",
+  "eyeColorIndex": 1,
+  "eyeVerticalPos": 0.17,
+  "eyeSpread": 0.34,
+  "fragmentation": 0,
+  "outlineColor": [
+    0,
+    0,
+    0,
+    255
+  ],
+  "outlineEnabled": false,
+  "outlineThickness": 1,
+  "eyeSize": 1,
+  "idleAnim": "float",
+  "celebrateAnim": "shake",
+  "customPalette": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      64,
+      64,
+      64,
+      255
+    ],
+    [
+      128,
+      128,
+      128,
+      255
+    ],
+    [
+      192,
+      192,
+      192,
+      255
+    ],
+    [
+      224,
+      224,
+      224,
+      255
+    ]
+  ]
+}

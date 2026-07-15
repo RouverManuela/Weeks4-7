@@ -1,0 +1,74 @@
+{
+  "id": "7hf6-g64g",
+  "name": "wandering-watcher",
+  "seed": "i0xmmyw1",
+  "size": 32,
+  "caIterations": 4,
+  "caBirth": 4,
+  "caSurvival": 3,
+  "caErosion": 0,
+  "caGrowth": 0,
+  "complexity": 0.5226410516846421,
+  "aggression": 0.500623534251766,
+  "density": 0.6314011736814256,
+  "aspect": 0.3007422817780581,
+  "colorVariance": 0.5,
+  "limbLength": 0.620737855851794,
+  "limbThickness": 0.6583491748191057,
+  "mutation": 0,
+  "symmetry": "horizontal",
+  "palette": "custom",
+  "frameCount": 8,
+  "animSpeed": 125,
+  "canvasSize": 48,
+  "eyesEnabled": true,
+  "eyeCount": 1,
+  "eyeShape": "dot",
+  "eyeColorIndex": 1,
+  "eyeVerticalPos": 0.29,
+  "eyeSpread": 0.28,
+  "fragmentation": 0,
+  "outlineColor": [
+    0,
+    0,
+    0,
+    255
+  ],
+  "outlineEnabled": true,
+  "outlineThickness": 1,
+  "eyeSize": 1,
+  "idleAnim": "bob",
+  "celebrateAnim": "shake",
+  "customPalette": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      12,
+      46,
+      39,
+      255
+    ],
+    [
+      31,
+      124,
+      105,
+      255
+    ],
+    [
+      72,
+      191,
+      158,
+      255
+    ],
+    [
+      218,
+      228,
+      228,
+      255
+    ]
+  ]
+}

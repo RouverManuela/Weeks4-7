@@ -1,0 +1,74 @@
+{
+  "id": "xf9d-mr7p",
+  "name": "mythic-wanderer",
+  "seed": "99xvr9i7",
+  "size": 32,
+  "caIterations": 4,
+  "caBirth": 3,
+  "caSurvival": 4,
+  "caErosion": 2,
+  "caGrowth": 0.84,
+  "complexity": 0.5,
+  "aggression": 0.3,
+  "density": 0.65,
+  "aspect": 0.5,
+  "colorVariance": 0.5,
+  "limbLength": 0.5,
+  "limbThickness": 0.4,
+  "mutation": 0,
+  "symmetry": "horizontal",
+  "palette": "procedural",
+  "frameCount": 8,
+  "animSpeed": 125,
+  "canvasSize": 48,
+  "eyesEnabled": true,
+  "eyeCount": 1,
+  "eyeShape": "dot",
+  "eyeColorIndex": 1,
+  "eyeVerticalPos": 0.3,
+  "eyeSpread": 0.31,
+  "fragmentation": 0,
+  "outlineColor": [
+    0,
+    0,
+    0,
+    255
+  ],
+  "outlineEnabled": true,
+  "outlineThickness": 1,
+  "eyeSize": 1,
+  "idleAnim": "wiggle",
+  "celebrateAnim": "shake",
+  "customPalette": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      64,
+      64,
+      64,
+      255
+    ],
+    [
+      128,
+      128,
+      128,
+      255
+    ],
+    [
+      192,
+      192,
+      192,
+      255
+    ],
+    [
+      224,
+      224,
+      224,
+      255
+    ]
+  ]
+}
