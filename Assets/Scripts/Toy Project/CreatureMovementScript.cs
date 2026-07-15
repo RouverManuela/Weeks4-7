@@ -4,8 +4,10 @@ public class CreatureMovementScript : MonoBehaviour
 {
     public float speed;
 
-    public float leftEdge;
-    public float rightEdge;
+    public float leftEdge = -8f;
+    public float rightEdge = 8f;
+
+    private float moveDirection = 1f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -17,20 +19,22 @@ public class CreatureMovementScript : MonoBehaviour
     void Update()
     {
         Vector3 newPosition = transform.position;
-        newPosition.x += speed * Time.deltaTime;
 
-
-        if (newPosition.x < leftEdge)
-        {
-            speed = -speed;
-        }
+        transform.position += Vector3.right * moveDirection * speed * Time.deltaTime;
 
         if (newPosition.x > rightEdge)
         {
-            speed = -speed;
+            moveDirection = -1f;
         }
 
-        transform.position = newPosition;
+        if (newPosition.x < leftEdge)
+        {
+            moveDirection = 1f;
+        }
+    }
 
+    public void SetSpeed(float newSpeed)
+    {
+        speed = newSpeed;
     }
 }
